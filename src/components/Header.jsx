@@ -1,13 +1,9 @@
-import React from 'react'
-
-const Header = () => {
+export default function Header() {
   return (
-    <div className='w-full border shadow-md py-4 fixed top-0 bg-white '>
-      <header className='text-center' >
-        <h1 className='text-3xl font-bold uppercase'>Codehelp Blogs</h1>
-      </header>
-    </div>
-  )
+    <header className="py-4 border-b-2 border-b-gray-300 drop-shadow-md fixed top-0 inset-x-0 bg-white">
+      <h1 className="font-bold text-3xl uppercase text-center">
+        Codehelp Blogs
+      </h1>
+    </header>
+  );
 }
-
-export default Header
