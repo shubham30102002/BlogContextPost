@@ -14,15 +14,8 @@ This is a personal project that I created to showcase my skills and interests in
 
 To run this project locally, you need to have Node.js and npm installed on your machine. Then, follow these steps:
 
-- Clone this repository: `git clone https://github.com/your-username/my-blog-website.git`
+- Clone this repository: `git clone [https://github.com/your-username/my-blog-website.git](https://github.com/shubham30102002/BlogContextPost.git)`
 - Go to the project directory: `cd blog-website`
 - Install the dependencies: `npm install`
 - Start the development server: `npm start`
 - Open http://localhost:3000 in your browser
-
-
-(3) How to create an excellent README for your GitHub profile ... - Medium. https://medium.com/@nick-stambaugh/how-to-create-an-excellent-readme-for-your-github-profile-using-html-a-beginners-guide-87255c8e3652.
-(4) How to write a great README for your GitHub project. https://dbader.org/blog/write-a-great-readme-for-your-github-project.
-(5) How to write a great README for your GitHub project in 5 steps. https://dev.to/abdfnx/how-to-write-a-great-readme-for-your-github-project-in-5-steps-33e5.
-(6) undefined. https://github.com/mfts/papermark.
-(7) undefined. https://github.com/mfts/papermark.git.
