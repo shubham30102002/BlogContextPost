@@ -14,7 +14,7 @@ This is a personal project that I created to showcase my skills and interests in
 
 To run this project locally, you need to have Node.js and npm installed on your machine. Then, follow these steps:
 
-- Clone this repository: `git clone [https://github.com/your-username/my-blog-website.git](https://github.com/shubham30102002/BlogContextPost.git)`
+- Clone this repository: `git clone https://github.com/shubham30102002/BlogContextPost.git`
 - Go to the project directory: `cd blog-website`
 - Install the dependencies: `npm install`
 - Start the development server: `npm start`
