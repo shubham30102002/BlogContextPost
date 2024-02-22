@@ -47,9 +47,7 @@ const BlogPage = () => {
     <div>
       <Header/>
       <div>
-        <button
-        onClick={() => navigation(-1)}
-        >
+        <button onClick={() => navigation(-1)}>
             Back
         </button>
       </div>

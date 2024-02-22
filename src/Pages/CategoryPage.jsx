@@ -13,10 +13,8 @@ const CategoryPage = () => {
   return (
     <div>
       <Header/>
-      <div>
-        <button
-        onClick={() => navigation(-1)}
-        >
+      <div className='mt-[100px]'>
+        <button onClick={() => navigation(-1)}>
             Back
         </button>
         <h2> 

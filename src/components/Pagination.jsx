@@ -8,7 +8,7 @@ export default function Pagination() {
 
   return (
     <div className="fixed bottom-0 inset-x-0 bg-white py-2 border-t-2 border-t-gray-300">
-      <div className="flex items-center gap-x-3 w-11/12 max-w-2xl mx-auto">
+      <div className="flex items-center gap-x-3 w-11/12 max-w-[670px] mx-auto">
         {page > 1 && (
           <button
             onClick={() => handlePageChange(page - 1)}

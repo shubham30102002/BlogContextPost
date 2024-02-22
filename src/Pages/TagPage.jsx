@@ -14,10 +14,8 @@ const TagPage = () => {
     <div>
         <Header/>
         <div>
-            <button 
-            onClick={() => navigation(-1)}
-            >
-                back
+            <button onClick={() => navigation(-1)}>
+                Back
             </button>
             <h2>
                 Blogs Tagged <span>#{tag}</span>
